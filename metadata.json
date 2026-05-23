@@ -1,0 +1,6 @@
+{
+  "name": "GIAET Stuttgart University",
+  "description": "Premium European online engineering university featuring course guides, scholarship tools, and a secure certificate verification registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
